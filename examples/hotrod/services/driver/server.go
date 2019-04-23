@@ -21,8 +21,8 @@ import (
 	"github.com/uber/tchannel-go/thrift"
 	"go.uber.org/zap"
 
-	"github.com/jaegertracing/jaeger/examples/hotrod/pkg/log"
-	"github.com/jaegertracing/jaeger/examples/hotrod/services/driver/thrift-gen/driver"
+	"github.com/harnitsignalfx/jaeger/examples/hotrod/pkg/log"
+	"github.com/harnitsignalfx/jaeger/examples/hotrod/services/driver/thrift-gen/driver"
 )
 
 // Server implements jaeger-demo-frontend service
